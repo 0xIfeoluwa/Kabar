@@ -42,6 +42,7 @@ dependencies:
   flutter_verification_code: ^1.1.7
   
   country_list_pick: 
+  form_validator: ^2.1.1
   
 
 dev_dependencies:
